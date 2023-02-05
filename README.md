@@ -7,8 +7,8 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m searching to work IT company.
-- 🌱 I’m currently learning about HTML, CSS, JS, NODE and SQL.
-- 🤔 I’m looking for help with CSS, JS, NODE, REACT and SQL.
+- 🌱 I’m currently learning about Dart and Flutter.
+- 🤔 I’m looking for help with Dart and Flutter.
 - 📫 How to reach me: mail: thiagocrokao@gmail.com
 
 ## 🛠 &nbsp;Tech Stack
