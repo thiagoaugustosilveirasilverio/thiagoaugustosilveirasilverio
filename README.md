@@ -13,7 +13,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 Eu estou aberto a oportunidades na área de TI.
-- 🤔 Será bem recebido à ajuda em Dart e Flutter nos meus projetos.
+- 🤔 Será bem vinda à ajuda em Dart e Flutter nos meus projetos.
 <!--
 - 🌱 Eu estou estudando sobre Dart e Flutter atualmente.
 -->
