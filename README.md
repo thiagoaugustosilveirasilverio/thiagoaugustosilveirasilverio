@@ -16,6 +16,12 @@ Here are some ideas to get you started:
 - 🤔 Será bem recebido à ajuda em Dart e Flutter nos meus projetos.
 
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thiagoaugustosilveirasilverio&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Thiago Augusto github status" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoaugustosilveirasilverio&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
+
 ## 🛠 &nbsp;Tecnologias 
 
 
@@ -33,7 +39,7 @@ Here are some ideas to get you started:
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoaugustosilveirasilverio&layout=compact&theme=vision-friendly-dark" alt="thiagoaugustosilveirasilverio's most languages"/>
 -->
 
-![Thiago Augusto GitHub status](https://github-readme-stats.vercel.app/api?username=thiagoaugustosilveirasilverio&show_icons=true&theme=dracula)
+
 
 <div> 
   
