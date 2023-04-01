@@ -1,6 +1,6 @@
 <h1 align="left">Olá pessoal!!!👋 <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">Eu sou Thiago Augusto</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thiagoaugustosilveirasilverio&color=blue" alt="Profile views" />  </p> 
-<img align="center" alt="Rafa-Ts" height="30" width="40" src="[https://img.shields.io/github/followers/https://github.com/thiagoaugustosilveirasilverio.svg?style=social&label=Follow&maxAge=2592000">
+
 
 <!--
 **thiagoaugustosilveirasilverio/thiagoaugustosilveirasilverio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
