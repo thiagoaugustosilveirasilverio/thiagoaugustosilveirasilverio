@@ -11,21 +11,22 @@ Here are some ideas to get you started:
 - 🤔 Será bem recebido ajuda em Dart e Flutter nos meus projetos.
 
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tecnologias 
 
 
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=react)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=1572B6)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 <!--
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 -->
 
+<!--
 ## ⚙️ &nbsp;GitHub Analytics
 
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoaugustosilveirasilverio&layout=compact&theme=vision-friendly-dark" alt="thiagoaugustosilveirasilverio's most languages"/>
-
+-->
 
 <div> 
   
