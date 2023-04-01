@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoaugustosilveirasilverio&layout=compact&theme=vision-friendly-dark" alt="thiagoaugustosilveirasilverio's most languages"/>
 -->
 
+![Thiago Augusto GitHub status](https://github-readme-stats.vercel.app/api?username=thiagoaugustosilveirasilverio&show_icons=true&theme=dracula)
+
 <div> 
   
   <a href="https://instagram.com/thiago_assilverio/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -37,4 +39,4 @@ Here are some ideas to get you started:
   
 </div>
 
-![Thiago Augusto GitHub status](https://github-readme-stats.vercel.app/api?username=thiagoaugustosilveirasilverio&show_icons=true&theme=dracula)
+
