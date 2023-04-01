@@ -36,3 +36,5 @@ Here are some ideas to get you started:
   <a href="https://https://www.linkedin.com/in/thiago-augusto-silveira-silvério-6a3b4bb4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+![Thiago Augusto GitHub status](https://github-readme-stats.vercel.app/api?username=thiagoaugustosilveirasilverio&show_icons=true&theme=dracula)
