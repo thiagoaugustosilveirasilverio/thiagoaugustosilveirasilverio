@@ -1,4 +1,4 @@
-<h1 align="left">!!! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">I'm Thiago Augusto</h1>
+<h1 align="left">Olá pessoal!!! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">Eu sou Thiago Augusto</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thiagoaugustosilveirasilverio&color=blue" alt="Profile views" /> </p>
 
 <!--
@@ -6,15 +6,14 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m searching to work IT company.
-- 🌱 I’m currently learning about Dart and Flutter.
-- 🤔 I’m looking for help with Dart and Flutter.
-- 📫 How to reach me: mail: thiagocrokao@gmail.com
+- 🔭 Eu estou aberto a oportunidades na área de TI.
+- 🌱 Eu estou estudando sobre Dart e Flutter atualmente.
+- 🤔 Será bem recebido ajuda em Dart e Flutter nos meus projetos.
+
 
 ## 🛠 &nbsp;Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+
 ![CSS](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=react)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
