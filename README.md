@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   
 </div>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=thiagoaugustosilveirasilverio&theme=gotham)
+![Github Gráfico de atividades](https://github-readme-activity-graph.cyclic.app/graph?username=thiagoaugustosilveirasilverio&theme=gotham)
 
 ## 🛠 &nbsp;Tecnologias 
 
