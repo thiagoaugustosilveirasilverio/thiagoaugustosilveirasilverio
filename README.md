@@ -52,7 +52,25 @@ Here are some ideas to get you started:
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoaugustosilveirasilverio&layout=compact&theme=vision-friendly-dark" alt="thiagoaugustosilveirasilverio's most languages"/>
 -->
 
+### Tools:
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 
+### Outros conhecimentos
+
+![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+  
+### Estudando:
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=1572B6)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
+  <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{thiagoaugustosilveirasilverio}/count.svg" /></p> 
+<br></div>
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>****
 
 
 
