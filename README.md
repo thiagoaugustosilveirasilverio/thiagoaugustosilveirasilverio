@@ -35,7 +35,8 @@ Here are some ideas to get you started:
   
  
   <a href = "mailto: thiagocrokao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://https://www.linkedin.com/in/thiago-augusto-silveira-silvério-6a3b4bb4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  <a href="https://instagram.com/thiago_assilverio/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://https://www.linkedin.com/in/thiago-augusto-silveira-silvério-6a3b4bb4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  <a href="https://instagram.com/thiago_assilverio/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+   <a href="https://web.telegram.org/z/ThiagoThass" target="_blank"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   
 </div>
 
